@@ -1,0 +1,31 @@
+# created by virtualenv automatically
+
+.env
+.venv
+# Ambientes virtuais
+.venv/
+env/
+
+# Variáveis de ambiente e chaves
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Banco de dados local
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Outros arquivos temporários
+*.swp
+*.bak
+*.tmp
+x
